@@ -1,0 +1,21 @@
+{
+  "name": "svg-exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "dom-to-svg": "^0.12.2",
+    "parcel-bundler": "^1.12.5",
+    "puppeteer": "^14.1.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "xml-formatter": "^2.6.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/preset-env": "^7.18.0",
+    "@babel/preset-react": "^7.17.12"
+  }
+}
